@@ -75,37 +75,87 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "Code Fellows",
+        "title": "Student",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "GitHub",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Freelance",
+        "title": "Branding Artist",
+        "years": "06.2021 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Adobe Suite"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Figma",
+          "Illustrator",
+          "Indesign",
+          "Photoshop"
+        ]
+      },
+      {
+        "company": "Fayetteville Technical Comunity College",
+        "title": "Associate of Computer Information Technology: Digital Media Technology",
+        "years": "01.2019 - 08.2021",
+        "mainTech": [
+          "Microsoft Office Suite", "Adobe Suite"
+        ],
+        "technologies": [
+          "Photoshop",
+          "Premiere Pro",
+          "After Effects",
+          "Illustrator",
+          "Lightroom", 
+          "Indesign",
+          "Maya",
+          "Animate",
+          "Figma",
+          "Webflow", 
+          "Python",
+          "Microsoft Office Suite",
+          "Behance",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Freelance",
+        "title": "Lens Specialist",
+        "years": "10.2016 - 12.2020",
+        "mainTech": [
+          "Sony", "Adobe Suite"
+        ],
+        "technologies": [
+          "Photoshop",
+          "Premiere Pro",
+          "After Effects",
+          "Illustrator",
+          "Lightroom"
+        ]
+      },
+      {
+        "company": "United States Army",
+        "title": "Combat Documentation/Production Specialist",
+        "years": "07.2016 - 01.2019",
+        "mainTech": [
+          "Nikon", "Adobe Suite"
+        ],
+        "technologies": [
+          "Photoshop",
+          "Premiere Pro",
+          "After Effects",
+          "Illustrator",
+          "Lightroom"
         ]
       }
     ]

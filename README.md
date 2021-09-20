@@ -44,23 +44,23 @@ Actual time needed to complete: 35 min
 
 Number and name of feature: 03 - Projects Section
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 40 min
 
-Start time: _____
+Start time: 01:30 Pm
 
-Finish time: _____
+Finish time: 02:30 Pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hr
 
 
 Number and name of feature: 04 - Skills and Experiance Section
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 min
 
-Start time: _____
+Start time: 02:50 Pm
 
-Finish time: _____
+Finish time: 03:20 Pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 min
 
 
 Number and name of feature: 05 - Personalization
