@@ -33,13 +33,13 @@ Actual time needed to complete: 41 min
 
 Number and name of feature: 02 - About Me Page
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 20 min
 
-Start time: _____
+Start time: 1035 Pm
 
-Finish time: _____
+Finish time: 1110 Pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 35 min
 
 
 Number and name of feature: 03 - Projects Section
